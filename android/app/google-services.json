@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478541807421",
+    "firebase_url": "https://findcoder-1f043-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "findcoder-1f043",
+    "storage_bucket": "findcoder-1f043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478541807421:android:f4373ccb6a1146a80d8f54",
+        "android_client_info": {
+          "package_name": "com.findcoder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478541807421-jke0996a2n480n4da7ndbht66u8t90qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cYAvj31o-S_cNB0Q2Um8akK48EUgxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478541807421-jke0996a2n480n4da7ndbht66u8t90qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
